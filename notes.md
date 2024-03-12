@@ -13,3 +13,5 @@
 # Time tracking:
 
 - 11.03.2024: 1h 20min
+- 12.03.2024: 4h 20min
+- together  : 5h 40min
